@@ -1,5 +1,7 @@
 # IsGame · Neo Academia
 
+> **Se ha mudado.** IsGame vive ahora en https://isuniverse.dev/game/ (repositorio [`game`](https://github.com/ismael-sarmiento/game), copia con historial de este). Este repositorio solo publica la redirección de `/isgame/` a `/game/`: enlaces compartidos y QR impresos llegan aquí, así que **no se borra**.
+
 *IsAcademy's open-world browser game: drive and walk a living tech city, talk to its mentors and learn programming,
 data and AI by playing.*
 

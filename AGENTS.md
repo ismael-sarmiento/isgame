@@ -1,5 +1,9 @@
 # AGENTS.md — isgame
 
+> **Moved.** IsGame now lives at https://isuniverse.dev/game/ (repository `game`, a copy with history of
+> this one). This repository only publishes the redirect from `/isgame/` to `/game/`.
+> Shared links and printed QR codes arrive here: never delete it. Work happens in `game`.
+
 ## Parent
 
 Global roots (L0):
